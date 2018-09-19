@@ -17,6 +17,6 @@ profiler.enable();
 module.exports.loop = function() {
   profiler.wrap(function()
   {
-  console.log(Game.time);
+  console.log('rawr' Game.time);
   });
   }
