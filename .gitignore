@@ -1,0 +1,7 @@
+/.vs/*
+/CreaturelingAI/.rpt2_cache/*
+/CreaturelingAI/node_modules/*
+/CreaturelingAI/CreaturelingAI.log
+/CreaturelingAI/docs/*
+/CreaturelingAI/dist/main.js
+/CreaturelingAI/dist/main.js.map.js

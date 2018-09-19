@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="tslint.json">
+      <Filter>_build</Filter>
+    </None>
+    <None Include="tsconfig.json">
+      <Filter>_build</Filter>
+    </None>
+    <None Include="rollup.config.js">
+      <Filter>_build</Filter>
+    </None>
+    <None Include="package.json">
+      <Filter>_build</Filter>
+    </None>
+    <None Include="src\main.ts">
+      <Filter>src</Filter>
+    </None>
+    <None Include="src\external\screeps-profiler.js">
+      <Filter>external</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="external">
+      <UniqueIdentifier>{c28c2efa-b18d-49b8-bb6c-aac5db323ed9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_build">
+      <UniqueIdentifier>{fcfed884-8067-4cb3-aa01-3eb499aacd93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{7a84d19e-ce9a-420f-bc5a-f145bc3a3706}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
